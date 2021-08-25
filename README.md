@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [The Launch Pad Bot][https://github.com/JoshyOnMars/TLP-Bot]
+- 🔭 I’m currently working on [The Launch Pad Bot](https://github.com/JoshyOnMars/TLP-Bot)
 - 🌱 I’m currently learning `Databases`
 - 📫 How to reach me: 
 > Discord: Joshy#1234
